@@ -86,12 +86,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D6628896213C066500CCA3A5 /* Photo */ = {
+		D619D36B213C1CF900E2BCDF /* photo */ = {
 			isa = PBXGroup;
 			children = (
 				D6628897213C06A400CCA3A5 /* 1_iphonexspacegrey_portrait.png */,
 			);
-			path = Photo;
+			name = photo;
+			path = Photo/photo;
 			sourceTree = "<group>";
 		};
 		F8F6B75A20B347E900E3FE1F = {
@@ -128,7 +129,7 @@
 				F8FDFC8A20B35732002DDA20 /* 2track.mp3 */,
 				F8FDFC8B20B35733002DDA20 /* 3track.mp3 */,
 				F8FDFC8820B35732002DDA20 /* 4track.mp3 */,
-				D6628896213C066500CCA3A5 /* Photo */,
+				D619D36B213C1CF900E2BCDF /* photo */,
 			);
 			path = playerHW;
 			sourceTree = "<group>";
